@@ -110,6 +110,7 @@ nav:
       - Rank Related: api-reference/rank.md
       - Stats Related: api-reference/stats.md
       - Record Related: api-reference/record.md
+      - Random Agent: api-reference/random-hero.md
     - Overlay Endpoints:
       - Rank-Record: overlay-reference/rank-record.md
       - LeaderboardRank-Record: overlay-reference/leaderboardrank-record.md

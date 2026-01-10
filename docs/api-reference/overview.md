@@ -21,6 +21,9 @@ The Valo-API provides the following endpoints:
 - [`/checkstats`](./stats.md/#checkstats-endpoint)
 - [`/record`](./record.md/#record-endpoint)
 - [`/last-match/party-members`](./stats.md/#party-members-endpoint)
+- [`/random-agent`](./random-hero.md/#random-agent-endpoint)
+- [`/overlays/rank-record`](../overlay-reference/rank-record.md/#/overlays/rank-record-endpoint)
+- [`/overlays/leaderboardrank-record`](../overlay-reference/leaderboardrank-record.md/#/overlays/leaderboardrank-record-endpoint)
 
 ## Request Parameters
 
